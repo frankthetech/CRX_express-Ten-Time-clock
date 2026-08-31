@@ -4,3 +4,4 @@ I'll post them here when I can.
 The design puts the usb plug at the bottom of the clock case.
 The first 2 dots (red and green) positions show the percent of the day elapsed.
 Check the mp3 file to see it running, can you tell what time it shows?
+Hours-red(10 hour), Min-green(10 min), Sec-blue(10 sec)
